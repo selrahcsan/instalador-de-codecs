@@ -4,4 +4,4 @@ Exec=wrapper-codecs.sh %f
 Icon=preferences-plugin
 Type=Application
 Categories=Utility;
-MimeType=application/x-7z-compressed;application/vnd.adobe.flash.movie;video/x-matroska;video/quicktime;video/x-msvideo;video/x-ms-wmv;
+MimeType=application/x-7z-compressed;application/vnd.adobe.flash.movie;video/x-matroska;video/quicktime;video/x-msvideo;video/x-ms-wmv;application/x-ms-wim;application/vnd.ms-cab-compressed;application/vnd.apple-dmg-compressed;
