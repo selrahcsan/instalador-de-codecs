@@ -10,3 +10,5 @@ Se um usuário tentar abrir um arquivo que depende de codecs/softwares propriet�
 ![](screenshots/screen02.jpg)
 
  Quando executado ao tentar abrir um arquivo que não é suportado
+
+Será descontinuado,terá um instalador universal que é o : [deb-manager-gui](https://github.com/selrahcsan/deb-manager-gui)
